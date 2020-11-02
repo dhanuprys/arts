@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-brainly_api_logo);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #583a3a;
+        font-size: 300px;
+      }
+
+      .cls-2 {
+        font-family: Raul-5-Regular, Raul-5;
+      }
+
+      .cls-3 {
+        font-family: SegoePrint, Segoe Print;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-brainly_api_logo">
+      <rect width="1600" height="900"/>
+    </clipPath>
+  </defs>
+  <g id="brainly_api_logo" data-name="brainly api logo" class="cls-1">
+    <rect class="cls-4" width="1600" height="900"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(36)">
+      <text id="Brainly" class="cls-2" transform="translate(80 540)"><tspan x="0" y="0">Brainly</tspan></text>
+      <text id="api" class="cls-3" transform="translate(984 564)"><tspan x="0" y="0">api</tspan></text>
+    </g>
+  </g>
+</svg>
