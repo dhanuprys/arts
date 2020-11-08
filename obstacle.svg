@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="300" viewBox="0 0 600 300">
+  <defs>
+    <clipPath id="clip-Obstacle_logo">
+      <rect width="600" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Obstacle_logo" data-name="Obstacle logo" clip-path="url(#clip-Obstacle_logo)">
+    <rect width="600" height="300" fill="#fff"/>
+    <g id="text" transform="translate(-8.01 -0.045)">
+      <g id="back_text" data-name="back text" transform="translate(41)" opacity="0.8">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="193" height="98" transform="translate(65.01 103)" fill="#e81a1a"/>
+        <text id="TACL" transform="translate(263 181)" fill="#707070" font-size="90" font-family="ArialMT, Arial" letter-spacing="-0.08em"><tspan x="0" y="0">TACL</tspan></text>
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="56" height="8.2" transform="translate(422 173)" fill="#707070"/>
+        <text id="E" transform="translate(428 169)" fill="#707070" font-size="74" font-family="ArialMT, Arial"><tspan x="0" y="0">E</tspan></text>
+      </g>
+      <g id="front_text" data-name="front text" transform="translate(37)">
+        <text id="O" transform="translate(67.508 167.16) rotate(20)" fill="#fffbfb" font-size="90" font-family="ArialMT, Arial"><tspan x="0" y="0">O</tspan></text>
+        <text id="B" transform="matrix(-1, 0, 0, 1, 203, 181)" fill="#fffbfb" font-size="90" font-family="ArialMT, Arial"><tspan x="0" y="0">B</tspan></text>
+        <text id="S" transform="translate(259 117) rotate(180)" fill="#fffbfb" font-size="90" font-family="ArialMT, Arial"><tspan x="0" y="0">S</tspan></text>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="7.5" cy="7.5" r="7.5" transform="translate(136 110)" fill="#fff"/>
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.5" cy="7.5" r="7.5" transform="translate(96 99)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
